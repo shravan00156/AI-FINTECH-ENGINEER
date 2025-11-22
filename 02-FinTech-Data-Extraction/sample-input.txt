@@ -1,1 +1,12 @@
+Account Holder: Raj Kumar
+Account Number: XXXX 9876
+Bank: HDFC Bank
+Branch: Hyderabad
+
+Date        Description                  Withdrawals   Deposits     Balance
+--------------------------------------------------------------------------------
+01-09-2024  ATM Withdrawal                5000.00                  45000.00
+03-09-2024  Salary Credit                               55000.00   100000.00
+05-09-2024  UPI Payment                   750.00                  99250.00
+07-09-2024  Amazon Purchase               1400.00                 97850.00
 
